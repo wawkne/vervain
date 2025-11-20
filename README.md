@@ -10,5 +10,5 @@ Vervain is a statically typed programming language that can be used for all sort
 ##
 ## Installing Vervain
 
-Installing Vervain will be easy. The language is not finish yet, so please wait for the team at Lumira to finish writing the interpreter. So far, the only person on the team is me. Ok?
+Installing Vervain will be easy. The language is not finish yet, so please wait for the team at Lumira to finish writing the interpreter. So far, the only person on the team is me
 
